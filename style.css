@@ -7,5 +7,48 @@ body {
     padding-top: 150px;
 }
 .text {
-    width: 500px;
+    width: 450px;
+    font-family: "ALK Rounded Mtav Med", sans-serif;
+}
+.div_undet_text {
+    padding-left: 150px;
+    margin-top: 50px;
+}
+.div_under_map {
+    padding-left: 120px;
+    margin-top: 20px;
+}
+.for_inline {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.div_icons {
+    display: inline-block;
+    margin-left: 20px;
+}
+section {
+    display: flex;
+}
+input {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    margin-top: 20px;
+    width: 400px;
+    height: 40px;
+    background-color: #0a22f4;
+    border-bottom: 2px solid white;
+}
+.div_for_right_side {
+    margin-top: 250px;
+    padding-left: 300px;
+}
+button {
+    margin-top: 10px;
+    margin-left: 320px;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(208, 208, 208);
 }
