@@ -1,0 +1,11 @@
+body {
+    background-color: #0a22f4;
+    color: rgb(206, 206, 206);
+}
+.main_div {
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.text {
+    width: 500px;
+}
